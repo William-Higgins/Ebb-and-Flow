@@ -2,7 +2,7 @@
 ##### by Will Higgins
 
 
-![Hero image](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\Hero-image.jpg "Hero-image")
+![Hero image](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\Hero-image)
 
 
 *A Dao of Web Design* Is an article written By John Allsopp on April 7th, 2000 detailing the rise and reinvention of various entertainment mediums, such as books, radio, and television. More specifically the use of newer mediums being based on how older mediums were being used. On top of that, the article goes into how people given the tools to create seek to create what they are comfortable and familiar with rather then bringing diversity to their medium.
