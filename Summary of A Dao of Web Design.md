@@ -1,0 +1,28 @@
+# Summary of A Dao of Web Design
+##### by Will Higgins
+
+
+![Hero image](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\Hero-image.jpg "Hero-image")
+
+
+*A Dao of Web Design* Is an article written By John Allsopp on April 7th, 2000 detailing the rise and reinvention of various entertainment mediums, such as books, radio, and television. More specifically the use of newer mediums being based on how older mediums were being used. On top of that, the article goes into how people given the tools to create seek to create what they are comfortable and familiar with rather then bringing diversity to their medium.
+
+This view on the controlling nature of the creator is a throughline throughout the article and plays an integral part in the message proposed by the article. Much like the Daoist teachings it references, the articles main message is one of adaptability. Moreover it proposes that the exploration and appreciation of the facets of any given medium are of greater importance than the end product. Another sub message suggested by the text is that of carving the bones before molding the flesh (Give structure, before aesthetic). As one can only work from the foundation provided to them.
+
+ Overall, the article still holds up despite being almost two decades old by the time of writing this. It also speaks to the relative youth of the internet as a platform and how quickly the words “Just google it” have become ubiquitous. They’re even more ubiquitous than the word ubiquitous at this point 
+ 
+ 
+ 
+ **Full Article Here**, [A Dao of Web Design](https://alistapart.com/article/dao/) By John Allsopp
+
+
+### **About The Author (summarist?, I guess...)**
+
+![Headshot](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\IMG_6441.jpg)
+
+Will is a student at Montserrat College of Art and Design in Beverly, MA majoring in graphic design. Will can be found most weekdays softly weeping in a blanket burrito. Simultaneously suffering from caffeine withdrawals and failing to cut a straight line through even the shortest piece of paper. He prefers the winter time as he has an aversion to the sun and most judaeo-christian paraphernalia.
+
+
+
+
+
