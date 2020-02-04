@@ -2,7 +2,7 @@
 ##### by Will Higgins
 
 
-![Hero image](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\Hero-image)
+![Hero image](https://william-higgins.github.io/ebb-and-flow-2/img/Hero-Image.png)
 
 
 *A Dao of Web Design* Is an article written By John Allsopp on April 7th, 2000 detailing the rise and reinvention of various entertainment mediums, such as books, radio, and television. More specifically the use of newer mediums being based on how older mediums were being used. On top of that, the article goes into how people given the tools to create seek to create what they are comfortable and familiar with rather then bringing diversity to their medium.
@@ -18,7 +18,7 @@ This view on the controlling nature of the creator is a throughline throughout t
 
 ### **About The Author (summarist?, I guess...)**
 
-![Headshot](C:\Users\marki\Documents\GitHub\ebb-and-flow\img\IMG_6441.jpg)
+![Headshot](https://william-higgins.github.io/ebb-and-flow-2/img/IMG_6441.jpg)
 
 Will is a student at Montserrat College of Art and Design in Beverly, MA majoring in graphic design. Will can be found most weekdays softly weeping in a blanket burrito. Simultaneously suffering from caffeine withdrawals and failing to cut a straight line through even the shortest piece of paper. He prefers the winter time as he has an aversion to the sun and most judaeo-christian paraphernalia.
 
