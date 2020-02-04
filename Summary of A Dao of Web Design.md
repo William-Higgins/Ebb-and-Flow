@@ -18,7 +18,7 @@ This view on the controlling nature of the creator is a throughline throughout t
 
 ### **About The Author (summarist?, I guess...)**
 
-![Headshot](https://william-higgins.github.io/ebb-and-flow-2/img/IMG_6441.jpg)
+![Headshot](img/IMG_6441.JPG)
 
 Will is a student at Montserrat College of Art and Design in Beverly, MA majoring in graphic design. Will can be found most weekdays softly weeping in a blanket burrito. Simultaneously suffering from caffeine withdrawals and failing to cut a straight line through even the shortest piece of paper. He prefers the winter time as he has an aversion to the sun and most judaeo-christian paraphernalia.
 
