@@ -27,7 +27,7 @@
             width: 25%;
             height: 50%;
         }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
   body {column-count: 1;
         }
        
