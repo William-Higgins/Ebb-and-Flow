@@ -28,7 +28,7 @@
             height: 50%;
         }
 @media screen and (max-width: 375px) {
- div {
+ div { column-count: 1;
      margin-top: 0px;
         }
         div-2 {margin-left: 44%;
@@ -46,6 +46,7 @@
             max-width: 700px;
             margin:auto;
             font-family: "Teko", sans-serif;  
+            column-count: 1;
         }
         p {margin-top: 0;   
         }
