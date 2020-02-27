@@ -52,6 +52,6 @@
         .right {text-align: right; 
         }
         .left {float:left;
-            width: 25%;
-            height: 50%;
+            width: 50%;
+            height: 100%;
         }
